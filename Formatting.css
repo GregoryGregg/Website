@@ -2,7 +2,8 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: gray;
-    text-align: center;}
+    text-align: center;
+    margin-top: 0px;}
 .mainCenter {
     margin: 10px auto 10px auto;
     width: 400px;
@@ -11,17 +12,18 @@ body {
     margin: 10px auto 10px auto;
     width: 700px;
     text-align: left;}
-.inline {
-    display: inline;
+#ribbon {
+    position: absolute;
+    top: 5px;
+    right: 5px;
     color: white;
-    font-size: 12px;
-    text-align: right;}
-h1 {
     font-size: 12px;}
 h2 {
+    position: relative;
     background-color: black;
     color: white;
-    padding: 10px;}
+    padding: 10px;
+    margin-top: 0px;}
 p {
     background-color: white;}
 a:link {
