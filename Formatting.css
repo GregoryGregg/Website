@@ -7,15 +7,26 @@ body {
     margin: 10px auto 10px auto;
     width: 400px;
     text-align: left;}
+.navigation {
+    margin: 10px auto 10px auto;
+    width: 700px;
+    text-align: left;}
+.inline {
+    display: inline;
+    color: white;
+    font-size: 12px;
+    text-align: right;}
+h1 {
+    font-size: 12px;}
 h2 {
     background-color: black;
     color: white;
-    padding: 10px}
+    padding: 10px;}
 p {
     background-color: white;}
 a:link {
-    color: black;
+    color: white;
     text-decoration: none;}
 a:visited {
-    color: black;
+    color: white;
     text-decoration: none;}
