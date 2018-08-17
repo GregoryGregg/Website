@@ -1,6 +1,6 @@
 /*Formatting in CSS, again I am very new to this*/
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: monospace;
     background-color: gray;
     text-align: center;
     margin-top: 0px;}
@@ -25,6 +25,9 @@ a:visited {
     margin: 0px auto 10px auto;
     width: 700px;
     text-align: left;}
+.tab {
+    display: inline-block;
+    margin-left:40px;}
 #ribbon {
     position: absolute;
     top: 5px;
