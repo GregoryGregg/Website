@@ -28,14 +28,14 @@ a:visited {
 .tab {
     display: inline-block;
     margin-left:40px;}
-.contact {}
+.contact {} /* to be populated with rules that will allow for contact information at the bottom of the page*/
 #ribbon {
     position: absolute;
     top: 5px;
     right: 5px;
     color: white;
     font-size: 12px;}
-#footer {}
+#footer {} /* to be populated with rules that will allow for contact information at the bottom of the page */
 h2 {
     position: relative;
     background-color: black;
