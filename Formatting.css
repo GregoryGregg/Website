@@ -28,22 +28,10 @@ a:visited {
 .tab {
     display: inline-block;
     margin-left:40px;}
-.projects {
+.row {
     text-align: center;}
-.ChemECar {
-    margin: 10px auto 10px auto;
-    text-align: left;
-    background-color: hsla(0,0%,75%,.5);
-    width: 400px;
-    border-style: solid;
-    border-color: white;}
-.Test {
-    margin: 10px autp 10px auto;
-    text-align: left;
-    display: inline-block;
-    background-color: hsla(0,0%,75%,.5);
-    border-style: solid;
-    border-color: white;}
+.column {
+   
 .contact {} /* to be populated with rules that will allow for contact information at the bottom of the page*/
 #ribbon {
     position: absolute;
