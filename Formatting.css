@@ -25,13 +25,14 @@ a:visited {
     margin: 0px auto 10px auto;
     width: 700px;
     text-align: left;}
-.tab {
-    display: inline-block;
-    margin-left:40px;}
 .row {
     text-align: center;}
 .column {
-   
+    display: inline-table;
+    text-align: left;
+    background-color: hsla(0,0%,75%,.5);
+    border-style: solid;
+    border-color: white;}
 .contact {} /* to be populated with rules that will allow for contact information at the bottom of the page*/
 #ribbon {
     position: absolute;
