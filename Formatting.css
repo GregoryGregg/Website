@@ -28,7 +28,6 @@ a:visited {
 .row {
     text-align: center;}
 .column {
-    padding: 5px;
     display: inline-table;
     text-align: left;
     background-color: hsla(0,0%,75%,.5);
